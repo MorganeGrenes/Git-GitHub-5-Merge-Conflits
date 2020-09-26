@@ -1,4 +1,4 @@
-LOCAL# Git-GitHub-5-Merge-Conflits
+LOCAL# Git-GitHub-5-Merge-Conflitsc
 
 Bonjour,
 
